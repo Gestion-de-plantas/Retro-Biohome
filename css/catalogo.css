@@ -1,0 +1,700 @@
+body {
+    height: 900px;
+    background-image: url("https://images.pexels.com/photos/235925/pexels-photo-235925.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-size: cover;
+    background-size: 95rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+table#tb1 {
+    background: #a8ff78;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #78ffd6, #a8ff78);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+table#tb2 {
+    background: #003973;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #E5E5BE, #003973);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #E5E5BE, #003973);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.imageWrapper1 {
+    position: relative;
+    
+}
+.imageWrapper1 img {
+    display: block;
+}
+.imageWrapper1 .txtimg1 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper1:hover .txtimg1 {
+    opacity: 0.8;
+}
+/* Imagen 2 */
+.imageWrapper2 {
+    position: relative;
+    
+}
+.imageWrapper2 img {
+    display: block;
+}
+.imageWrapper2 .txtimg2 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper2:hover .txtimg2 {
+    opacity: 0.8;
+}
+/* imagen 3 */
+.imageWrapper3 {
+    position: relative;
+    
+}
+.imageWrapper3 img {
+    display: block;
+}
+.imageWrapper3 .txtimg3 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper3:hover .txtimg3 {
+    opacity: 0.8;
+}
+/* IMAGEN 4 */
+.imageWrapper4 {
+    position: relative;
+    
+}
+.imageWrapper4 img {
+    display: block;
+}
+.imageWrapper4 .txtimg4 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper4:hover .txtimg4 {
+    opacity: 0.8;
+}
+/* imagen 5 */
+.imageWrapper5 {
+    position: relative;
+    
+}
+.imageWrapper5 img {
+    display: block;
+}
+.imageWrapper5 .txtimg5 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper5:hover .txtimg5 {
+    opacity: 0.8;
+}
+/* imagen 6 */
+.imageWrapper6 {
+    position: relative;
+    
+}
+.imageWrapper6 img {
+    display: block;
+}
+.imageWrapper6 .txtimg6 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper6:hover .txtimg6 {
+    opacity: 0.8;
+}
+/* imagen 7 */
+.imageWrapper7 {
+    position: relative;
+    
+}
+.imageWrapper7 img {
+    display: block;
+}
+.imageWrapper7 .txtimg7 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper7:hover .txtimg7 {
+    opacity: 0.8;
+}
+/* imagem 8 */
+.imageWrapper8 {
+    position: relative;
+    
+}
+.imageWrapper8 img {
+    display: block;
+}
+.imageWrapper8 .txtimg8 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper8:hover .txtimg8 {
+    opacity: 0.8;
+}
+/* imagen 9 */
+.imageWrapper9 {
+    position: relative;
+    
+}
+.imageWrapper9 img {
+    display: block;
+}
+.imageWrapper9 .txtimg9 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper9:hover .txtimg9 {
+    opacity: 0.8;
+}
+/* imagen 10 */
+.imageWrapper10 {
+    position: relative;
+    
+}
+.imageWrapper10 img {
+    display: block;
+}
+.imageWrapper10 .txtimg10 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper10:hover .txtimg10 {
+    opacity: 0.8;
+}
+/* imagen 11 */
+.imageWrapper11 {
+    position: relative;
+    
+}
+.imageWrapper11 img {
+    display: block;
+}
+.imageWrapper11 .txtimg11 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper11:hover .txtimg11 {
+    opacity: 0.8;
+}
+/* imagen 12 */
+.imageWrapper12 {
+    position: relative;
+    
+}
+.imageWrapper12 img {
+    display: block;
+}
+.imageWrapper12 .txtimg12 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper12:hover .txtimg12 {
+    opacity: 0.8;
+}
+/* IMAGEN 13 */
+.imageWrapper13 {
+    position: relative;
+    
+}
+.imageWrapper13 img {
+    display: block;
+}
+.imageWrapper13 .txtimg13 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper13:hover .txtimg13 {
+    opacity: 0.8;
+}
+/* imagen 14/ */
+.imageWrapper14 {
+    position: relative;
+    
+}
+.imageWrapper14 img {
+    display: block;
+}
+.imageWrapper14 .txtimg14 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper14:hover .txtimg14 {
+    opacity: 0.8;
+}
+/* imagen 15 */
+.imageWrapper15 {
+    position: relative;
+    
+}
+.imageWrapper15 img {
+    display: block;
+}
+.imageWrapper15 .txtimg15 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper15:hover .txtimg15 {
+    opacity: 0.8;
+}
+/* imagen 16 */
+.imageWrapper16 {
+    position: relative;
+    
+}
+.imageWrapper16 img {
+    display: block;
+}
+.imageWrapper16 .txtimg16 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper16:hover .txtimg16 {
+    opacity: 0.8;
+}
+/* imagen 17 */
+.imageWrapper17 {
+    position: relative;
+    
+}
+.imageWrapper17 img {
+    display: block;
+}
+.imageWrapper17 .txtimg17 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper17:hover .txtimg17 {
+    opacity: 0.8;
+}
+/* imagen 18 */
+.imageWrapper18 {
+    position: relative;
+    
+}
+.imageWrapper18 img {
+    display: block;
+}
+.imageWrapper18 .txtimg18 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper18:hover .txtimg18 {
+    opacity: 0.8;
+}
+/* imagen 19 */
+.imageWrapper19 {
+    position: relative;
+    
+}
+.imageWrapper19 img {
+    display: block;
+}
+.imageWrapper19 .txtimg19 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper19:hover .txtimg19 {
+    opacity: 0.8;
+}
+/* imagen 20 */
+.imageWrapper20 {
+    position: relative;
+    
+}
+.imageWrapper20 img {
+    display: block;
+}
+.imageWrapper20 .txtimg20 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper20:hover .txtimg20 {
+    opacity: 0.8;
+}
+/* imagen 21 */
+.imageWrapper21 {
+    position: relative;
+    
+}
+.imageWrapper21 img {
+    display: block;
+}
+.imageWrapper21 .txtimg21 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper21:hover .txtimg21 {
+    opacity: 0.8;
+}
+/* imagen 22 */
+.imageWrapper22 {
+    position: relative;
+    
+}
+.imageWrapper22 img {
+    display: block;
+}
+.imageWrapper22 .txtimg22 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper22:hover .txtimg22 {
+    opacity: 0.8;
+}
+/* imagen 23 */
+.imageWrapper23 {
+    position: relative;
+    
+}
+.imageWrapper23 img {
+    display: block;
+}
+.imageWrapper23 .txtimg23 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper23:hover .txtimg23 {
+    opacity: 0.8;
+}
+/* imagen 24 */
+.imageWrapper24 {
+    position: relative;
+    
+}
+.imageWrapper24 img {
+    display: block;
+}
+.imageWrapper24 .txtimg24 {
+    opacity: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 2px 0px;
+    color: #ffffff;
+    background: #000000;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+    
+}
+.imageWrapper24:hover .txtimg24 {
+    opacity: 0.8;
+}

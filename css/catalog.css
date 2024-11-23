@@ -1,0 +1,9 @@
+img#img1{
+    position: absolute;
+    left: 0;
+    transition: opacity 1.5s ease-in-out;
+  }
+  
+ img#img2:hover {
+    opacity: 0;
+  }
